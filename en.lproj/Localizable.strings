@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  TourismApp
+
+  Created by Mekhriddin Jumaev on 28/09/23.
+  
+*/
+// Profile
+"profile" = "Profile";
+"my_info" = "Personal information";
+"change_language" = "Change language";
+"design" = "Design";
+"your_comments" = "Favorite places";
+"share_feedback" = "Share feedback";
+"rate_app" =  "Rate the app";
+"log_out" = "Log out";
+"near_destinations" = "Nearest places";
+"cities" = "Cities";
+"popular_destinations" = "Popular Destinations";
+"view_all" = "View all";
+"favorites" = "Favorites";
+"delete" = "Delete";
+"search" = "Search";
+"search_place" = "Search for a place";
+"calcel" = "Cancel";
+"log_out_alert" = "Are you sure you want to log out?";
+"choose_mode" = "Choose mode";
+"choose_language" = "Choose language";
+"english" = "English";
+"uzbek" = "Uzbek";
+"dark" = "Dark";
+"light" = "Light";
+"system" = "System";
+"home" = "Home";
+"empty" = "Empty";
+"country_name" = ", Uzbekistan";
+"comments" = "Comments";
+"ai_assistent" = "AI Travel Assistent";
+"register" = "Register";
+"username" = "Username";
+"enter_username" = "Enter your username";
+"parol" = "Password";
+"enter_password" = "Enter your password";
+"email" = "Email";
+"enter_email" = "Enter your email";
+"enter_text" = "Enter some text";
+"open_google_map" = "Open Maps";
+"reviews" = "Reviews";
+"success" = "Success";
+"success_message_2" = "successfully removed from \"Favorites\"";
+"success_message_1" = "successfully added to \"Favorites\"";
+"fail" = "Failure";
+"fail_message_2" = "could not be removed from \"Favorites\"";
+"fail_message_1" = "could not be added to \"Favorites\"";
+"score" = "What is your score?";
+"comment_dest" = "What is your comment?";
+"publish" = "Publish";
+"login" = "Log in";
+"create_account" = "Create account";
+"nadiragebim" = "Nadir Divan-Begi Madrasa";
+"shoxizinda" = "Shah-i-Zinda";
+"juma_mosque" = "Juma Mosque, Khiva";
+"poi_kalon" = "Po-i-Kalyan, Bukhara";
+"khiva" = "Khiva, Uzbekistan";
+"delete_account" = "Delete Account";
+"are_you_sure" = "Are you sure you want to delete your account?";
+"translator" = "Translator";
+"uzbek" = "Uzbek";
+"english" = "English";
+"explore" = "Explore";
+"hotels" = "Hotels";
+"restaurants" = "Restaurants";
+"flights" = "Flights";
+"contacts" = "Contacts";
+"working hours:" = "Working hours:";
+"all" = "All";
+"filter" = "Filter";
+"flights within uzbekistan" = "Flights within Uzbekistan";
+"international flights" = "International Flights";
+"discover" = "Discover";
+"cancel" = "Cancel";
+"bazar" = "Bazar";

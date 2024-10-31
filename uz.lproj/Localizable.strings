@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  TourismApp
+
+  Created by Mekhriddin Jumaev on 28/09/23.
+  
+*/
+
+// Profile
+"profile" = "Profil";
+"my_info" = "Shaxsiy ma'lumotlarim";
+"change_language" = "Tilni o'zgartirish";
+"design" = "Dizayn";
+"your_comments" = "Sevimli joylar";
+"share_feedback" = "Fikr almashish";
+"rate_app" =  "Ilovani baholash";
+"log_out" = "Chiqish";
+"near_destinations" = "Eng yaqin qadamjolar";
+"cities" = "Shaharlar";
+"popular_destinations" = "Mashhur maskanlar";
+"view_all" = "Barchasi";
+"favorites" = "Sevimlilar";
+"delete" = "O'chirish";
+"search" = "Qidirish";
+"search_place" = "Biror joyni qidiring";
+"calcel" = "Bekor qilish";
+"log_out_alert" = "Chiqishga animnisiz?";
+"choose_mode" = "Dizayn tanlang";
+"choose_language" = "Tilni tanlang";
+"english" = "Inglizcha";
+"uzbek" = "O'zbekcha";
+"dark" = "Qora";
+"light" = "Yorug'";
+"system" = "System";
+"home" = "Asosiy";
+"empty" = "Hozircha bo'sh";
+"country_name" = ", O'zbekiston";
+"comments" = "Izohlar";
+"ai_assistent" = "Aqilli yordamchi";
+"register" = "Ro'yxatdan o'tish";
+"username" = "Foydananuvchi nomi";
+"enter_username" = "Usernamingizni kiriting";
+"parol" = "Parol";
+"enter_password" = "Parolingizni kiriting";
+"email" = "Email";
+"enter_email" = "Emailingizni kiriting";
+"enter_text" = "Biror matn kiriting";
+"open_google_map" = "Xaritaga o'tish";
+"reviews" = "Izohlar";
+"success" = "Muvaffaqiyatli";
+"success_message_1" = "\"Sevimlilar\"ga muvaffiqiyatli qo'shildi";
+"success_message_2" = "\"Sevimlilar\"dan muvaffiqiyatli o'chirildi";
+"fail" = "Xatolik";
+"fail_message_1" = "ni \"Sevimlilar\"ga qo'shib bo'lmadi";
+"fail_message_2" = "ni \"Sevimlilar\"dan o'chirib bo'lmadi";
+"score" = "Bahoyingiz nechchi?";
+"comment_dest" = "Izohingizni kiriting?";
+"publish" = "Chop etish";
+"login" = "Kirish";
+"create_account" = "Akkaunt yaratish";
+"shoxizinda" = "Shohizinda";
+"nadiragebim" = "Nodir devonbegi madrasasi";
+"juma_mosque" = "Juma Masjidi, Xiva";
+"poi_kalon" = "Poi Kalon, Buxoro";
+"khiva" = "Xiva, O'zbekiston";
+"delete_account" = "Akkountni o'chirish";
+"are_you_sure" = "Akkauntingizni o'chirishga aminmisiz?";
+"translator" = "Tarjimon";
+"uzbek" = "O'zbekcha";
+"english" = "Inglizcha";
+"explore" = "Tadqiq qilish";
+"hotels" = "Mehmonxonalar";
+"restaurants" = "Restoranlar";
+"flights" = "Parvozlar";
+"contacts" = "Kontaktlar";
+"view" = "Ko'proq";
+"working hours:" = "Ish vaqti:";
+"all" = "Hammasi";
+"filter" = "Saralash";
+"flights within uzbekistan" = "Flights within Uzbekistan";
+"international flights" = "International Flights";
+"discover" = "Kashf eting";
+"suggested" = "Ko'p qidirilganlar";
+"cancel" = "Bekor qilish";
